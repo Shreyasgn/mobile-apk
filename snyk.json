@@ -1,0 +1,5 @@
+{
+  "ok": false,
+  "error": "Could not find package.json at /home/kali/emedihub/package.json (lockfile found at package-lock.json)",
+  "path": "/home/kali/emedihub"
+}
